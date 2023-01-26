@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 本账号主要用于备份笔记
 <!--
 **BlackWord2001/BlackWord2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
