@@ -1,6 +1,15 @@
-### 本账号主要用于备份笔记📕
-<img src="./images/cpp-logo.png" alt="drawing" width="100"/> | <img src="./images/rust-logo-blk.svg" alt="drawing" width="150"/> | <img src="./images/llvm-clang.png" alt="drawing" width="100"/> | <img src="./images/cargo.png" alt="drawing" width="100"/> | <img src="./images/cmake_logo_slider.png" alt="drawing" width="100"/> | <img src="./images/vscode-logo.png" alt="drawing" width="100"/>
-:---:|:---:|:---:|:---:|:---:|:---:
+### 本账号主要用于备份笔记 
+![logo](./images/Gitee.svg)  ![logo](./images/Github.svg)
+
+
+![logo](./images/C_C%2B%2B.svg)  ![logo](./images/RUST.svg)
+
+![logo](./images/VSCode.svg) ![logo](./images/nvim.svg)
+
+![logo](./images/CMake.svg)  ![logo](./images/Clang.svg) ![logo](./images/GNU.svg) 
+
+![logo](./images/Windows.svg) ![logo](./images/Arch.svg) ![logo](./images/Debian.svg)
+
 
 
 我很懒这里没别的东西可看了
