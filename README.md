@@ -7,13 +7,21 @@ Hi, I'm Blackword
 I am a game artist and also a programming novice, with some interest in graphics.
 
 
-我的技术债👇
+主要技术债👇
 
 
 ![blender](./images/BLENDER.svg) ![godot](./images/GODOT%20ENGINE.svg)
 
-![logo](./images/C_C%2B%2B.svg) ![logo](./images/Python.svg)
+![rust](./images/RUST.svg) ![python](./images/Python.svg) ![c_cpp](./images/C_C++.svg) 
 
-![logo](./images/VSCode.svg)  ![logo](./images/Git.svg) ![logo](./images/Clang.svg)
+C/C++工具链👇
+
+![xmake](./images/XMAKE.svg) ![llvm](./images/LLVM.svg)
+
+非常推荐用于构建项目 👉 [xmake](https://xmake.io)
+
+<!-- 常用编辑器👇
+
+![zed](./images/ZED%20INDUSTRIES.svg) -->
 
 </div>
