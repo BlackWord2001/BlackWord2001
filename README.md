@@ -9,7 +9,6 @@ I am a game artist and also a programming novice, with some interest in graphics
 
 主要技术债👇
 
-
 ![blender](./images/BLENDER.svg) ![godot](./images/GODOT%20ENGINE.svg)
 
 ![rust](./images/RUST.svg) ![python](./images/Python.svg) ![c_cpp](./images/C_C++.svg) 
@@ -18,7 +17,7 @@ C/C++工具链👇
 
 ![xmake](./images/XMAKE.svg) ![llvm](./images/LLVM.svg)
 
-非常推荐用于构建项目 👉 [xmake](https://xmake.io)
+非常推荐用 [Xmake](https://xmake.io) 构建C++项目 
 
 <!-- 常用编辑器👇
 
